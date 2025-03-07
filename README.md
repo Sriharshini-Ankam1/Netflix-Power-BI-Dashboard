@@ -24,7 +24,7 @@ This Power BI dashboard provides insights into Netflix's content library, includ
 The Play Axis feature in Power BI allows users to animate data changes over time, enhancing storytelling and trend analysis. This is demonstrated in the **Play Axis.wmv** video.
 
 ## Preview
-![Netflix Dashboard Preview](Netflix_Logo.png)
+![Netflix Dashboard Preview](Thumbnail.PNG)
 
 ## Contributions
 Feel free to fork this repository and improve the dashboard!
